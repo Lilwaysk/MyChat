@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icon"/>
+    <qresource prefix="/">
+        <file>wec.png</file>
+        <file>close.png</file>
+        <file>setting.png</file>
+        <file>box.png</file>
+        <file>bars.png</file>
+        <file>sub.png</file>
+        <file>search.png</file>
+        <file>chat.png</file>
+        <file>people_list.png</file>
+        <file>dou.png</file>
+        <file>fileb.png</file>
+        <file>filew.png</file>
+        <file>trans.png</file>
+    </qresource>
+</RCC>
